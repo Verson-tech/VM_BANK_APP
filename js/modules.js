@@ -34,5 +34,5 @@ ui.navigation=`
       </nav>
 `;
 
-var navigation = document.grtElementById('navigation');
+var navigation = document.getElementById('navigation');
 navigation.innerHTML += ui.navigation;
