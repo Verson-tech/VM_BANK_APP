@@ -145,5 +145,5 @@ var loadAllData = function(){
   target.innerHTML = ui.allData;
 };
 
-loadCreateAccount();
+defaultModule();
 
