@@ -112,7 +112,7 @@ ui.default = `
   <div class="card-body">
   <h5 class="card-title">Welcome to the bank</h5>
   <p class="card-text">You can move around using the navigation bar.</p>
-  <img src="../images/bank.png" class="img-fluid" alt"Responsive image">
+  <img src="images/bank.png" class="img-fluid" alt"Responsive image">
   </div>
 </div>
 `;
