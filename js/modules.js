@@ -13,16 +13,13 @@ ui.navigation=`
       <li class="nav-item">
         <a class="nav-link" href="#" onclick="loadLogin()" id="login">Login</a>
       </li>
-      </li>
-      <li class="nav-item">
+           <li class="nav-item">
         <a class="nav-link" href="#" onclick="loadDeposit()">Deposit</a>
       </li>
-      </li>
-      <li class="nav-item">
+            <li class="nav-item">
         <a class="nav-link" href="#" onclick="loadWithdraw()">Withdraw</a>
       </li>
-      </li>
-      <li class="nav-item">
+          <li class="nav-item">
         <a class="nav-link" href="#" onclick="loadBalance()">Balance</a>
       </li>
       <li class="nav-item">
